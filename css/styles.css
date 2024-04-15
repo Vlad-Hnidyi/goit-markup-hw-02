@@ -63,7 +63,7 @@ button {
 .main-title {
     font-weight: 700;
     font-size: 56px;
-    line-height: 1.07143;
+    line-height: 1.07;
     letter-spacing: 0.02em;
     text-align: center;
     color: #fff;
@@ -105,7 +105,7 @@ button {
 .team-title {
     font-weight: 700;
     font-size: 36px;
-    line-height: 1.11111;
+    line-height: 1.11;
     letter-spacing: 0.02em;
     text-align: center;
     color: #2e2f42;
@@ -135,11 +135,11 @@ button {
 .portfolio-title {
     font-weight: 700;
     font-size: 36px;
-    line-height: 1.11111;
+    line-height: 1.11;
     letter-spacing: 0.02em;
     text-align: center;
-    color: #2e2f42;  
-
+    color: #2e2f42;
+    
 }
 .portfolio-list-title {
     font-weight: 500;
@@ -160,6 +160,7 @@ button {
     background-color: #2e2f42;;
 }
 .page-logo {
+    font-family: "Raleway", sans-serif;
     font-weight: 700;
     font-size: 18px;
     line-height: 1.17;
